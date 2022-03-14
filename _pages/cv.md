@@ -31,7 +31,6 @@ RESEARCH PROJECTS
   - My role: major participant  
   - Achievement: We have proposed a solution for cross-network contamination source identification (CSI) that can transfer the CSI knowledge learned from one water distribution network (WDN) to a different WDN. This greatly increases the usability of deep learning methods in water contamination detection and identification. Based on the structure of graph neural network (GCN) and the idea of transfer learning, we designed a model that can capture the spatial correlation of small areas in the network topology and the temporal correlation of water quality sensors, so as to realize the detection and identification of water contamination across WDNs
 
-
 * **Development and Application of Big Data-based Platform for Intelligent Prevention and Control of Urban Public Security Risks**
   - Duration: 2020.01-2021.12
   - Funded by: National Key R&D Program of China
