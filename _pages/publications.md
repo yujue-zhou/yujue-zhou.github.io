@@ -36,5 +36,5 @@ Mohammed Alghamdi, Ligang He, **Yujue Zhou**, Junyu Li.
 2019 IEEE 38th International Performance Computing and Communications Conference (IPCCC). IEEE, 2019: 1-8.
 
 Quantum Fisher information for unitary parametrization processes governed by arbitrary Lie algebras  
-Hongbin Liang, Fei Yao, Xiao-Xing Jing, Yujue Zhou, Xiaoguang Wang.  
+Hongbin Liang, Fei Yao, Xiao-Xing Jing,  **Yujue Zhou**, Xiaoguang Wang.  
 Journal of Physics A: Mathematical and Theoretical, 2018, 51(33): 335301.
